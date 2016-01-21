@@ -2,7 +2,7 @@ body {
 	background-color: #fff;
 	background-image: url(images/wiki-bg.jpg);
 	background-repeat: repeat-x;
-	background-position: center 80px;
+	background-position: center 50px;
 	color: #222;
 	padding-top: 128px;
 }
@@ -27,11 +27,12 @@ textarea {
 	text-shadow: 1px 1px 0 rgb(255,255,255);
 }
 
-h2 .mw-headline { font-size: 18px; }
-h3 .mw-headline { font-size: 16px; }
-h4 .mw-headline { font-size: 14px; }
-h5 .mw-headline { font-size: 12px; }
-h6 .mw-headline { font-size: 12px; }
+h1 { font-size: 32px; }
+h2 .mw-headline { font-size: 26px; }
+h3 .mw-headline { font-size: 22px; }
+h4 .mw-headline { font-size: 18px; }
+h5 .mw-headline { font-size: 16px; }
+h6 .mw-headline { font-size: 15px; }
 
 p {
 	margin-bottom: 15px;
